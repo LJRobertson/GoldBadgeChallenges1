@@ -1,0 +1,16 @@
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\bin\Debug\02_Challenge2ClaimsTests.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\bin\Debug\02_Challenge2ClaimsTests.pdb
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\bin\Debug\02_Challenge2ClaimsRepo.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\bin\Debug\02_Challenge2ClaimsRepo.pdb
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\obj\Debug\02_Challenge2ClaimsTests.csprojAssemblyReference.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\obj\Debug\02_Challenge2ClaimsTests.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\obj\Debug\02_Challenge2ClaimsTests.csproj.CopyComplete
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\obj\Debug\02_Challenge2ClaimsTests.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsTests\obj\Debug\02_Challenge2ClaimsTests.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsRepo\bin\Debug\02_Challenge2ClaimsRepo.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsRepo\bin\Debug\02_Challenge2ClaimsRepo.pdb
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsRepo\obj\Debug\02_Challenge2ClaimsRepo.csprojAssemblyReference.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsRepo\obj\Debug\02_Challenge2ClaimsRepo.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsRepo\obj\Debug\02_Challenge2ClaimsRepo.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\02_Challenge2ClaimsRepo\obj\Debug\02_Challenge2ClaimsRepo.pdb

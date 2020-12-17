@@ -1,0 +1,16 @@
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\bin\Debug\03_Challenge3BadgesTests.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\bin\Debug\03_Challenge3BadgesTests.pdb
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\bin\Debug\03_Challenge3BadgesRepo.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\bin\Debug\03_Challenge3BadgesRepo.pdb
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\obj\Debug\03_Challenge3BadgesTests.csprojAssemblyReference.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\obj\Debug\03_Challenge3BadgesTests.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\obj\Debug\03_Challenge3BadgesTests.csproj.CopyComplete
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\obj\Debug\03_Challenge3BadgesTests.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesTests\obj\Debug\03_Challenge3BadgesTests.pdb

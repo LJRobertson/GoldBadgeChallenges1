@@ -1,0 +1,10 @@
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesConsoleApp\bin\Debug\03_Challenge3BadgesConsoleApp.exe.config
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesConsoleApp\bin\Debug\03_Challenge3BadgesConsoleApp.exe
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesConsoleApp\bin\Debug\03_Challenge3BadgesConsoleApp.pdb
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesConsoleApp\bin\Debug\03_Challenge3BadgesRepo.dll
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesConsoleApp\bin\Debug\03_Challenge3BadgesRepo.pdb
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesConsoleApp\obj\Debug\03_Challenge3BadgesConsoleApp.csprojAssemblyReference.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesConsoleApp\obj\Debug\03_Challenge3BadgesConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesConsoleApp\obj\Debug\03_Challenge3BadgesConsoleApp.csproj.CopyComplete
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesConsoleApp\obj\Debug\03_Challenge3BadgesConsoleApp.exe
+C:\Users\Lindsey Robertson\Documents\Eleven Fifty\Eleven Fifty Projects\GoldBadge\GoldBadgeChallenges\03_Challenge3BadgesConsoleApp\obj\Debug\03_Challenge3BadgesConsoleApp.pdb
